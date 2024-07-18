@@ -1,7 +1,7 @@
-# Lesson Plan Template
+# Python Lesson
 This file serves as the primary lesson plan document for the repository.
 
-## Template Description
+## A Lesson to introduce HS Students to Python
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
 
 ## Additional Page Example
